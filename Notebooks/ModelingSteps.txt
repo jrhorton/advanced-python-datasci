@@ -1,0 +1,5 @@
+# 1. Import the data
+# 2. Split the data into train (75%) and test (25%)
+# 3. Define the algorithm (sklearn.neighbors.KNeighborsCalssifier)
+# 4. Fit the model on training data
+# 5. Score the model on test data
